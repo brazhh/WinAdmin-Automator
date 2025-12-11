@@ -35,7 +35,8 @@ Windows Update Orchestration: Triggers the modern USOClient (Update Session Orch
 
 ## 📸 Screenshots
 
-(The main interactive menu showing categorized administrative functions)
+![Main Menu](WinAdmin.PNG)
+
 
 ## 💻 Installation & Usage
 
