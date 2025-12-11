@@ -1,9 +1,9 @@
 # WinAdmin-Automator
-SysAdmin Operations Toolkit (PowerShell)
+WinAdmin Automator (PowerShell)
 
 ## 📋 Overview
 
-The SysAdmin Operations Toolkit is a modular, menu-driven CLI utility designed to streamline Level 1 and Level 2 IT support tasks. It consolidates over 18 essential diagnostic, maintenance, and forensic tools into a single portable script.
+The WinAdmin Automator is a modular, menu-driven CLI utility designed to streamline Level 1 and Level 2 IT support tasks. It consolidates over 18 essential diagnostic, maintenance, and forensic tools into a single portable script.
 
 Unlike standard maintenance scripts, this toolkit utilizes hybrid execution models (PowerShell + Native CMD) to bypass object processing overhead for high-velocity file operations, and includes enterprise-grade features such as RAID-aware health checks and persistent auditing logs.
 
@@ -11,7 +11,7 @@ Unlike standard maintenance scripts, this toolkit utilizes hybrid execution mode
 
 ## 🛠 Automated Maintenance
 
-Hyper-Velocity Cleanup: Utilizes a custom "Blind Fire" logic piping paths directly to cmd.exe to bypass PowerShell's Get-ChildItem latency on massive file structures.
+Hyper-Velocity Cleanup: Utilizes a custom logic piping paths directly to cmd.exe to bypass PowerShell's Get-ChildItem latency on massive file structures.
 
 Intelligent Locking Handling: Automatically detects and terminates locked processes (Browsers, Office 365, Teams) to ensure deep cleaning of AppData caches.
 
